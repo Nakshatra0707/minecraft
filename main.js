@@ -114,7 +114,7 @@ function my_keydown(e){
     }
 
     if( keypressed == "84"){
-        new_image("cloud.jpg");
+        new_image("trunk.jpg");
         console.log("T");
     }
     if (keypressed == "88"){
